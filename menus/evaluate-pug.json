@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle evaluate-pug",
-        "command": "evaluate-pug:toggle"
+        "label": "Evaluate pug",
+        "command": "evaluate-pug:evaluate"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "evaluate-pug",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "evaluate-pug:toggle"
+              "label": "Evaluate",
+              "command": "evaluate-pug:evaluate"
             }
           ]
         }

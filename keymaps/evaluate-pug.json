@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "evaluate-pug:toggle"
+    "cmd-shift-space": "evaluate-pug:evaluate"
   }
 }

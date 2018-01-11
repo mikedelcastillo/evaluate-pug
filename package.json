@@ -1,18 +1,20 @@
 {
   "name": "evaluate-pug",
   "main": "./lib/evaluate-pug",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "It's like Emmet but multiple lines.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "evaluate-pug:evaluate"
   },
-  "repository": "https://github.com/atom/evaluate-pug",
+  "repository": "https://github.com/mikedelcastillo/evaluate-pug",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-  }
+    "pretty": "^2.0.0",
+    "pug": "^2.0.0-rc.4"
+  },
+  "tag": "pug, evaluate, emmet, multi-line, html, jade"
 }
