@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle evaluate-pug",
+        "command": "evaluate-pug:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "evaluate-pug",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "evaluate-pug:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

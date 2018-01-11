@@ -1,0 +1,18 @@
+{
+  "name": "evaluate-pug",
+  "main": "./lib/evaluate-pug",
+  "version": "0.0.0",
+  "description": "It's like Emmet but multiple lines.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "evaluate-pug:evaluate"
+  },
+  "repository": "https://github.com/atom/evaluate-pug",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
