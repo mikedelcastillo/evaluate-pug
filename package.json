@@ -1,7 +1,7 @@
 {
   "name": "evaluate-pug",
   "main": "./lib/evaluate-pug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "It's like Emmet but multiple lines.",
   "keywords": [],
   "activationCommands": {
